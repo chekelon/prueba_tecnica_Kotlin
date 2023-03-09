@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParsearXml2</string>
+    <string name="item_home">Home</string>
+    <string name="item_jobs">Jobs</string>
+</resources>
