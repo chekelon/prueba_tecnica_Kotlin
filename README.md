@@ -1,4 +1,4 @@
-# ParsearXml2 · Prueba técnica Kotlin
+# Ofertas de Trabajo · 
 
 Aplicación Android nativa en Kotlin que **descarga un feed XML de ofertas de trabajo, lo parsea manualmente y lo muestra en una lista** con una pantalla de detalle para cada oferta.
 
